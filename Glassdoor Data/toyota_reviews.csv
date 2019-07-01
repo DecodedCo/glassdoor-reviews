@@ -1,0 +1,241 @@
+date,employee_title,location,employee_status,outlook,recommend,approve_ceo,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+Fri May 17 2019 10:41:45 GMT-0700 (Pacific Daylight Time),Administrative Assistant,,Current Employee,Positive,Recommends,,Associate Benefits,1,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Tue Jun 04 2019 07:23:17 GMT-0700 (Pacific Daylight Time),Receptionist,"Bloomington, IN",Current Employee,Positive,Recommends,,Good position for students,1,,,,,4.0,5.0,2.0,4.0,3.0,5.0
+Sun May 19 2019 12:04:12 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Owings Mills, MD",Former Employee,Positive,Recommends,,ok company,3,,,,,3.0,2.0,3.0,3.0,4.0,1.0
+Wed May 15 2019 15:27:03 GMT-0700 (Pacific Daylight Time),Senior Technical Support Engineer,"Plano, TX",Current Employee,Positive,Recommends,,Quality department,1,,,,,1.0,2.0,4.0,3.0,4.0,1.0
+Wed Mar 27 2019 17:58:52 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Salary increase for good employees,1,,,,,5.0,,,,,
+Mon Mar 18 2019 11:21:51 GMT-0700 (Pacific Daylight Time),Assembly Line Worker,"Huntsville, AL",Current Employee,Positive,Recommends,,Hard work/great career,1,,,,,5.0,3.0,5.0,5.0,5.0,5.0
+Sun Mar 31 2019 06:44:33 GMT-0700 (Pacific Daylight Time),Retail Sales Consultant,"Plano, TX",Current Employee,Positive,Recommends,,Weak Senior Management,5,,,,,3.0,3.0,4.0,2.0,2.0,2.0
+Wed Feb 27 2019 13:19:08 GMT-0800 (Pacific Standard Time),Senior Technical Lead,"Georgetown, KY",Current Employee,Positive,Recommends,,Great place,1,,,,,5.0,4.0,5.0,5.0,5.0,4.0
+Wed Jan 23 2019 11:53:35 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Owings Mills, MD",Current Employee,Positive,Recommends,,Great experience,3,,,,,3.0,2.0,4.0,5.0,5.0,3.0
+Tue Jan 08 2019 17:40:28 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Engineer,,,,,,4.0,3.0,,,,
+Mon Dec 24 2018 18:00:56 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Great benefits,,,,,,4.0,4.0,4.0,3.0,3.0,2.0
+Tue Nov 13 2018 21:49:36 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Customer,,,,,,5.0,,,,,
+Sun Nov 04 2018 14:53:13 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Owings Mills, MD",Current Employee,Positive,Recommends,,TFS,1,,,,,3.0,4.0,4.0,2.0,3.0,3.0
+Sat Oct 20 2018 06:27:26 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Baltimore, MD",Current Employee,Positive,Recommends,,Leaves much to be desired,1,1,,,,3.0,4.0,4.0,3.0,3.0,4.0
+Thu Sep 27 2018 17:02:41 GMT-0700 (Pacific Daylight Time),Production Team Member,"Evansville, IN",Current Employee,Positive,Recommends,,Good job,5,2,,,,5.0,2.0,4.0,5.0,5.0,3.0
+Thu Sep 06 2018 16:51:06 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Toyota,,,,,,5.0,,,,,
+Mon Sep 03 2018 15:03:27 GMT-0700 (Pacific Daylight Time),Enterprise Architect,"Torrance, CA",Former Employee,Positive,Recommends,,Enterprise Architecture,3,,,,,5.0,5.0,5.0,5.0,4.0,5.0
+Tue Aug 28 2018 06:43:31 GMT-0700 (Pacific Daylight Time),Operations Member,"Lexington-Fayette, KY",Current Employee,Positive,Recommends,,Toyota,1,,,,,5.0,2.0,3.0,4.0,5.0,4.0
+Mon Aug 27 2018 20:19:34 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Na,,,,,,4.0,,,,,
+Mon Jul 30 2018 19:22:56 GMT-0700 (Pacific Daylight Time),Team Member,"Princeton, IN",Former Employee,Positive,Recommends,,Assembky Production,1,,,,,4.0,1.0,5.0,3.0,5.0,4.0
+Mon Jul 16 2018 13:34:54 GMT-0700 (Pacific Daylight Time),Engineer,"Long Beach, CA",Former Employee,Positive,Recommends,,Engineering,1,,,,,5.0,4.0,5.0,5.0,4.0,5.0
+Sun Jul 15 2018 23:32:44 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Rockville, MD",Current Employee,Positive,Recommends,,Information Systems Staff,1,,,,,4.0,2.0,2.0,4.0,2.0,2.0
+Thu Jul 12 2018 10:48:49 GMT-0700 (Pacific Daylight Time),TL Paint,"Blue Springs, MS",Current Employee,Positive,Recommends,,GL,5,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Thu Jul 26 2018 11:38:20 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Its who you know,1,,,,,2.0,2.0,2.0,2.0,4.0,2.0
+Tue Jun 12 2018 14:39:49 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Bilingual Customer service,,,,,,5.0,2.0,5.0,5.0,5.0,5.0
+Sun May 13 2018 12:32:57 GMT-0700 (Pacific Daylight Time),Project Quality Engineer,"San Antonio, TX",Former Employee,Positive,Recommends,,Toyota Plant Quality Engineer,1,,,,,4.0,3.0,4.0,5.0,5.0,4.0
+Thu May 17 2018 12:49:06 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Okay for Single People,,1,,,,3.0,,,,,
+Wed May 09 2018 14:40:11 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Growing environment where any is possible is you work hard,,1,,,,3.0,1.0,5.0,5.0,2.0,3.0
+Thu Mar 22 2018 20:56:36 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Technician,,,,,,4.0,,,,,
+Tue Feb 27 2018 07:03:26 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Bristol, TN",Current Employee,Positive,Recommends,,Toyota,3,1,,,,3.0,2.0,1.0,2.0,2.0,2.0
+Thu Jan 18 2018 15:17:04 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Negative,Doesn't Recommend,,Attendance Policy,,1,,,,2.0,,,,,
+Tue Jan 16 2018 15:53:22 GMT-0800 (Pacific Standard Time),Forklift Operator,"San Antonio, TX",Former Employee,Negative,Doesn't Recommend,,Toyota/Aldez containers,1,2,,,,2.0,1.0,1.0,1.0,1.0,1.0
+Mon Dec 18 2017 19:25:49 GMT-0800 (Pacific Standard Time),Group Leader,"Georgetown, KY",Current Employee,Negative,Doesn't Recommend,,Production Group Leader,1,,,,,5.0,4.0,5.0,4.0,5.0,5.0
+Mon Dec 11 2017 09:38:22 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Negative,Doesn't Recommend,,Customer Service,,1,,,,2.0,2.0,3.0,5.0,3.0,1.0
+Fri Dec 08 2017 10:03:36 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Boston, MA",Current Employee,Negative,Doesn't Recommend,,Credit Analyst,1,,,,,3.0,2.0,4.0,3.0,3.0,1.0
+Tue Nov 14 2017 13:42:20 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Negative,Doesn't Recommend,,Accounting,,,,,,4.0,4.0,5.0,3.0,3.0,4.0
+Wed Nov 15 2017 17:02:45 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Owings Mills, MD",Former Employee,Negative,Doesn't Recommend,,Anonymous,5,1,,,,3.0,4.0,4.0,4.0,4.0,1.0
+Wed Oct 25 2017 09:45:44 GMT-0700 (Pacific Daylight Time),Packaging Engineer,"Georgetown, KY",Former Employee,Negative,Doesn't Recommend,,Good Quality,1,,,,,4.0,3.0,3.0,5.0,5.0,3.0
+Wed Oct 25 2017 15:59:04 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Negative,Doesn't Recommend,,Great company,,,,,,4.0,5.0,5.0,3.0,4.0,5.0
+Mon Oct 23 2017 16:57:56 GMT-0700 (Pacific Daylight Time),Executive Assistant,"Torrance, CA",Former Employee,Negative,Doesn't Recommend,,Great Company,1,,,,,5.0,4.0,4.0,4.0,4.0,4.0
+Tue Oct 17 2017 14:36:04 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Plano, TX",Current Employee,Negative,Recommends,,Manager,1,4,,,,3.0,4.0,4.0,3.0,4.0,2.0
+Fri Oct 06 2017 20:57:37 GMT-0700 (Pacific Daylight Time),Team Leader,"Ecru, MS",Current Employee,Negative,Recommends,,Team leader,5,1,,,,4.0,1.0,5.0,3.0,5.0,4.0
+Mon Oct 16 2017 12:26:39 GMT-0700 (Pacific Daylight Time),Collections Specialist,"Cedar Rapids, IA",Former Employee,Negative,Recommends,,Toyota Financial Services,5,2,,,,2.0,,,,,
+Sat Sep 23 2017 10:13:02 GMT-0700 (Pacific Daylight Time),Product Manager,"Peru, IN",Former Employee,Negative,Recommends,,Good Place,1,,,,,4.0,3.0,3.0,3.0,3.0,3.0
+Thu Sep 07 2017 09:19:41 GMT-0700 (Pacific Daylight Time),Digital Marketing Manager,"Torrance, CA",Former Employee,Negative,Recommends,,Great place to work... Innovation a challenge,8,,,,,4.0,4.0,4.0,4.0,4.0,3.0
+Tue Sep 05 2017 19:32:54 GMT-0700 (Pacific Daylight Time),Paint Specialist,"Blue Springs, MS",Current Employee,Negative,Recommends,,Paint Specialist,3,3,,,,3.0,2.0,2.0,3.0,5.0,3.0
+Tue Aug 15 2017 06:14:04 GMT-0700 (Pacific Daylight Time),Customer Relations Associate,"Plano, TX",Current Employee,Negative,Recommends,,Great Benefits! Wonderful Company,1,,,,,5.0,5.0,5.0,3.0,5.0,3.0
+Wed Aug 09 2017 13:13:10 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Negative,Recommends,,Culture,,,,,,5.0,4.0,5.0,5.0,5.0,5.0
+Fri Jul 28 2017 13:12:35 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Negative,Recommends,,Customer Service,,,,,,4.0,4.0,,,,
+Sun Aug 06 2017 06:26:08 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Negative,Recommends,,Not such a great place to work,1,2,,,,2.0,2.0,2.0,2.0,2.0,2.0
+Mon Jul 10 2017 14:57:02 GMT-0700 (Pacific Daylight Time),Production Team Leader,"Huntsville, AL",Current Employee,Neutral,Recommends,,Team leader in Quality over receiving inspection and Gage Control.,1,1,,,,5.0,1.0,3.0,1.0,5.0,1.0
+Tue Jul 11 2017 07:58:54 GMT-0700 (Pacific Daylight Time),N/A,"Owings Mills, MD",Former Employee,Neutral,Recommends,,n/a,5,2,,,,3.0,4.0,4.0,5.0,5.0,1.0
+Sat Jun 17 2017 08:13:45 GMT-0700 (Pacific Daylight Time),Production Engineer,"Princeton, IN",Current Employee,Neutral,Recommends,,Unbeatable Benefits,1,,,,,4.0,3.0,4.0,5.0,5.0,4.0
+Mon Jul 17 2017 11:39:04 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Owings Mills, MD",Former Employee,Neutral,Recommends,,customer service,1,2,,,,1.0,1.0,1.0,1.0,1.0,1.0
+Thu Jun 08 2017 08:44:51 GMT-0700 (Pacific Daylight Time),Business Analyst,"Torrance, CA",Former Employee,Neutral,Recommends,,Great Company,1,,,,,4.0,5.0,5.0,5.0,5.0,5.0
+Fri Jun 09 2017 12:07:59 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Neutral,Recommends,,ok job i guess,,2,,,,2.0,2.0,1.0,1.0,2.0,1.0
+Sun Jun 04 2017 18:32:23 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Neutral,Recommends,,Good starting place for fresh grads,,1,,,,3.0,2.0,3.0,2.0,4.0,2.0
+Thu May 11 2017 09:28:35 GMT-0700 (Pacific Daylight Time),Senior Financial Analyst,"Torrance, CA",Former Employee,Neutral,Recommends,,Great stable company,8,1,,,,4.0,5.0,5.0,3.0,4.0,4.0
+Sun May 07 2017 11:17:36 GMT-0700 (Pacific Daylight Time),Credit Analyst,"Baton Rouge, LA",Current Employee,Neutral,Recommends,,OUTSTANDING COMPANY TO WORK FOR,1,1,,,,5.0,5.0,5.0,4.0,5.0,5.0
+Sun Apr 09 2017 15:04:30 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Blue Springs, MS",Current Employee,Neutral,Recommends,,Production team member,5,1,,,,4.0,2.0,5.0,4.0,2.0,3.0
+Mon Apr 10 2017 09:02:25 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Baltimore, MD",Former Employee,Positive,Recommends,,former employee very large company,8,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Tue Mar 28 2017 23:21:52 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Great Company,,,,,,5.0,5.0,5.0,5.0,3.0,5.0
+Mon Mar 27 2017 09:56:22 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Production Improvement,,,,,,4.0,2.0,2.0,3.0,3.0,2.0
+Thu Apr 06 2017 15:49:01 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Customer Service Representative,1,1,,,,3.0,3.0,3.0,4.0,2.0,
+Thu Mar 09 2017 13:12:53 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Good,,,,,,4.0,4.0,4.0,4.0,4.0,4.0
+Fri Feb 17 2017 20:54:09 GMT-0800 (Pacific Standard Time),Tax Staff Accountant,"Torrance, CA",Current Employee,Positive,Recommends,,Staff Accountant/Tax Analyst,1,,,,,5.0,4.0,4.0,4.0,4.0,4.0
+Sun Feb 19 2017 11:59:25 GMT-0800 (Pacific Standard Time),Call Center Representative,"Plano, TX",Current Employee,Positive,Recommends,,Customer Service Rep,1,1,,,,3.0,4.0,4.0,3.0,5.0,1.0
+Tue Jan 31 2017 21:04:06 GMT-0800 (Pacific Standard Time),Senior Quality Engineer,"Torrance, CA",Current Employee,Positive,Recommends,,Toyota Motor North America (TMNA),1,,,,,4.0,4.0,4.0,4.0,3.0,3.0
+Sat Jan 28 2017 22:33:19 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Toyota Motor Corporation-Auto Sales,,,,,,5.0,2.0,5.0,5.0,5.0,4.0
+Tue Jan 24 2017 01:34:51 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Very Helpful,,,,,,5.0,,,,,
+Mon Jan 30 2017 19:16:54 GMT-0800 (Pacific Standard Time),Team Lead,"New Albany, MS",Former Employee,Neutral,Doesn't Recommend,,Team Leader in Body Weld,3,2,,,,3.0,1.0,1.0,1.0,5.0,1.0
+Sun Jan 29 2017 20:28:41 GMT-0800 (Pacific Standard Time),Collections,"Owings Mills, MD",Former Employee,Neutral,Doesn't Recommend,,Fired om Approved FMLA,5,2,,,,2.0,2.0,3.0,1.0,4.0,3.0
+Sat Jan 14 2017 05:36:35 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Neutral,Doesn't Recommend,,Department Administrator,,,,,,4.0,4.0,4.0,2.0,4.0,2.0
+Tue Jan 03 2017 09:03:14 GMT-0800 (Pacific Standard Time),Customer Service Representative,"Chandler, AZ",Former Employee,Neutral,Doesn't Recommend,,Financial Services,1,3,,,,2.0,1.0,1.0,2.0,1.0,1.0
+Sun Dec 11 2016 15:50:29 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Neutral,Doesn't Recommend,,T/M,,1,,,,4.0,3.0,5.0,3.0,4.0,4.0
+Tue Dec 06 2016 19:20:21 GMT-0800 (Pacific Standard Time),Customer Relationship Manager,"Torrance, CA",Current Employee,Neutral,Doesn't Recommend,,Customer Relation Intern,1,,,,,5.0,5.0,5.0,5.0,,
+Fri Dec 02 2016 09:49:58 GMT-0800 (Pacific Standard Time),Customer Service Representative,"Owings Mills, MD",Current Employee,Neutral,Doesn't Recommend,,Customer Service,1,1,,,,4.0,3.0,5.0,3.0,5.0,
+Tue Dec 13 2016 21:10:21 GMT-0800 (Pacific Standard Time),Detailer,"Plainfield, MI",Former Employee,Neutral,Doesn't Recommend,,jobs,1,1,,,,3.0,2.0,3.0,2.0,4.0,4.0
+Tue Nov 22 2016 08:12:05 GMT-0800 (Pacific Standard Time),IT Desktop and Telecom Analyst,"Phoenix, AZ",Former Employee,Neutral,Doesn't Recommend,,Desktop Tech,,,,,,4.0,2.0,3.0,3.0,3.0,3.0
+Wed Nov 16 2016 09:43:33 GMT-0800 (Pacific Standard Time),Customer Service Representative,,Former Employee,Neutral,Doesn't Recommend,,Don't buy the hype,,1,,,,2.0,5.0,3.0,2.0,2.0,1.0
+Fri Nov 11 2016 07:01:35 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,positive environment,,1,,,,3.0,3.0,3.0,3.0,3.0,3.0
+Wed Oct 12 2016 16:13:52 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Mechanical engineering,,,,,,4.0,,,,,
+Tue Oct 11 2016 06:12:22 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Lease End Services,,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Sat Oct 15 2016 05:57:08 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Supervisor,,1,,,,2.0,4.0,3.0,2.0,3.0,1.0
+Wed Sep 21 2016 16:39:50 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Huntsville, AL",Former Employee,Positive,Recommends,,"Good Job , Long Hours",,1,,,,4.0,3.0,4.0,3.0,5.0,3.0
+Wed Aug 24 2016 18:46:30 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Team member,,,,,,5.0,2.0,5.0,5.0,5.0,2.0
+Sun Aug 14 2016 21:05:27 GMT-0700 (Pacific Daylight Time),Technical Lead,,Current Employee,Positive,Recommends,,Technical Lead,,,,,,4.0,4.0,4.0,4.0,4.0,4.0
+Mon Aug 08 2016 11:52:16 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Torrance, CA",Former Employee,Positive,Recommends,,Good Company/IT Fickle,,,,,,4.0,4.0,5.0,4.0,5.0,4.0
+Fri Aug 26 2016 12:08:10 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Work here is you want your car to be vandalized!,,1,,,,1.0,1.0,1.0,2.0,2.0,2.0
+Wed Jul 20 2016 09:17:24 GMT-0700 (Pacific Daylight Time),Senior Business Systems Analyst,"Torrance, CA",Current Employee,Positive,Recommends,,Sr Business Systems Analyst,3,,,,,4.0,3.0,4.0,3.0,4.0,3.0
+Sat Jul 16 2016 17:52:09 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Cedar Rapids, IA",Former Employee,Positive,Recommends,,Customer Service/Collections,1,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Mon Jun 27 2016 23:15:35 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,best place to work,,,,,,4.0,,,,,
+Wed Jun 29 2016 16:01:13 GMT-0700 (Pacific Daylight Time),Administrative Engineering Assistant,"Tempe, AZ",Former Employee,Positive,Recommends,,Title Processor,1,2,,,,3.0,3.0,3.0,2.0,2.0,5.0
+Sat Jun 11 2016 07:56:15 GMT-0700 (Pacific Daylight Time),Commercial Risk Analytics and Reporting Manager,"Glendale, CA",Current Employee,Positive,Recommends,,Great company to work for,5,,,,,5.0,5.0,5.0,4.0,5.0,5.0
+Fri Jun 10 2016 14:36:17 GMT-0700 (Pacific Daylight Time),Operations Manager,"Cedar Rapids, IA",Current Employee,Positive,Recommends,,Operations Manager,1,,,,,4.0,5.0,4.0,3.0,2.0,4.0
+Fri Jul 01 2016 09:36:48 GMT-0700 (Pacific Daylight Time),Contract Analyst,"Chandler, AZ",Former Employee,Positive,Recommends,,Not a position for me!!!,1,4,,,,1.0,1.0,2.0,2.0,5.0,3.0
+Fri Jun 10 2016 09:27:38 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Baltimore, MD",Former Employee,Positive,Recommends,,TFS Experience,3,1,,,,3.0,2.0,3.0,2.0,5.0,1.0
+Wed Jun 08 2016 15:13:43 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Customer Service Representative,,2,,,,2.0,4.0,1.0,2.0,2.0,1.0
+Mon May 23 2016 13:24:41 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Torrance, CA",Current Employee,Positive,Recommends,,Toyota is my employer of choice.,,1,,,,5.0,4.0,5.0,4.0,4.0,5.0
+Mon May 23 2016 15:05:24 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Great Company,,,,,,4.0,,,,,
+Sun Jun 26 2016 14:48:01 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Neutral,Recommends,,Business Systems Analyst,,,,,,1.0,1.0,1.0,1.0,2.0,1.0
+Thu Jun 02 2016 09:07:07 GMT-0700 (Pacific Daylight Time),Customer Service Advance,"Torrance, CA",Former Employee,Neutral,Recommends,,Pros & Cons,,,,,,3.0,4.0,4.0,3.0,4.0,3.0
+Thu Apr 28 2016 10:35:24 GMT-0700 (Pacific Daylight Time),Director (National Manager),"Torrance, CA",Current Employee,Neutral,Recommends,,"National Manager (Director), HR",1,2,,,,5.0,5.0,5.0,4.0,4.0,5.0
+Mon Apr 25 2016 08:23:23 GMT-0700 (Pacific Daylight Time),Title Clerk,"Chandler, AZ",Former Employee,Neutral,Recommends,,Title Clerk,1,4,,,,4.0,1.0,3.0,4.0,3.0,4.0
+Mon May 09 2016 10:04:45 GMT-0700 (Pacific Daylight Time),Mid Stage Collections,"Chandler, AZ",Current Employee,Neutral,Recommends,,Use To Be Great,1,1,,,,2.0,4.0,2.0,1.0,2.0,2.0
+Sun Apr 24 2016 19:22:06 GMT-0700 (Pacific Daylight Time),Business Analyst,"Torrance, CA",Current Employee,Neutral,Recommends,,Business System Analyst,1,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Thu May 26 2016 15:57:49 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Neutral,Recommends,,Admin,,,,,,1.0,1.0,1.0,1.0,2.0,1.0
+Thu Apr 21 2016 07:33:13 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Plano, TX",Current Employee,Neutral,Recommends,,Great environment,1,,,,,4.0,5.0,4.0,5.0,3.0,5.0
+Tue Apr 19 2016 17:39:40 GMT-0700 (Pacific Daylight Time),Office Coordinator,,Current Employee,Neutral,Recommends,,Toyota AWESOME,,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Tue May 03 2016 18:19:53 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Neutral,Recommends,,Sr. ServiceNow developer,,,,,,3.0,3.0,3.0,3.0,3.0,4.0
+Mon Apr 04 2016 12:17:05 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Financial Analyst,,2,,,,4.0,4.0,5.0,4.0,5.0,3.0
+Fri Apr 22 2016 08:36:21 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Contract Analyst,,,,,,2.0,2.0,3.0,2.0,4.0,1.0
+Wed Apr 20 2016 14:16:30 GMT-0700 (Pacific Daylight Time),Loyalty Representative,"North Liberty, IA",Current Employee,Positive,Recommends,,Customer Loyalty,1,,,,,3.0,4.0,3.0,3.0,4.0,2.0
+Mon Mar 28 2016 11:58:08 GMT-0700 (Pacific Daylight Time),Credit Analyst,"San Antonio, TX",Former Employee,Positive,Recommends,,Great Place to Work,,,,,,5.0,3.0,5.0,5.0,4.0,5.0
+Tue May 03 2016 07:10:14 GMT-0700 (Pacific Daylight Time),Contract Analyst,"Chandler, AZ",Current Employee,Positive,Recommends,,Contract analyst,1,,,,,1.0,1.0,1.0,1.0,1.0,1.0
+Thu Mar 24 2016 00:01:06 GMT-0700 (Pacific Daylight Time),Sharepoint Analyst,"Torrance, CA",Current Employee,Positive,Recommends,,Sharepoint Administrator,1,,,,,5.0,,,,,
+Wed Mar 30 2016 07:26:14 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Contract Analyst,,1,,,,3.0,3.0,3.0,1.0,4.0,2.0
+Fri Mar 04 2016 16:01:28 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Generally Good Corporate Culture,,,,,,3.0,3.0,4.0,2.0,3.0,3.0
+Thu Mar 03 2016 15:00:46 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Challenging yet comfortable,,,,,,3.0,4.0,3.0,2.0,3.0,3.0
+Mon Feb 29 2016 16:20:07 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Great Comoany,,,,,,3.0,3.0,2.0,3.0,1.0,2.0
+Tue Feb 23 2016 08:51:15 GMT-0800 (Pacific Standard Time),Inventory Control Clerk,"Owings Mills, MD",Current Employee,Neutral,Recommends,,Inventory control clerk,,3,,,,2.0,3.0,2.0,2.0,2.0,3.0
+Thu Mar 17 2016 03:54:05 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Torrance, CA",Former Employee,Neutral,Recommends,,Worst people i have ever worked with,1,1,,,,1.0,1.0,1.0,3.0,1.0,2.0
+Wed Feb 24 2016 12:49:33 GMT-0800 (Pacific Standard Time),Loan Processor,"Humble, TX",Former Employee,Neutral,Recommends,,Loan Processor,1,,,,,3.0,2.0,3.0,,,
+Wed Feb 10 2016 12:30:13 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Neutral,Recommends,,Not worth the stress,3,5,,,,2.0,1.0,1.0,1.0,1.0,1.0
+Sun Jan 17 2016 04:05:10 GMT-0800 (Pacific Standard Time),Mail Room Clerk,"Chandler, AZ",Current Employee,Neutral,Recommends,,Mall room clerk,1,3,,,,5.0,4.0,5.0,4.0,4.0,4.0
+Mon Jan 25 2016 22:44:38 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Torrance, CA",Current Employee,Neutral,Recommends,,Great company ... but with the move - lots of unknowns.,,,,,,4.0,4.0,4.0,3.0,3.0,3.0
+Tue Jan 19 2016 09:21:56 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Neutral,Recommends,,Good Company,,1,,,,4.0,5.0,3.0,3.0,4.0,3.0
+Thu Jan 14 2016 13:12:18 GMT-0800 (Pacific Standard Time),Anonymous Employee,"San Antonio, TX",Former Employee,Neutral,Recommends,,Credit Analyst,,,,,,4.0,5.0,4.0,3.0,4.0,3.0
+Mon Jan 04 2016 21:39:15 GMT-0800 (Pacific Standard Time),Consumer Credit Risk Manager,"Los Angeles, CA",Current Employee,Neutral,Recommends,,"Big, Comfortable Company",3,3,,,,4.0,5.0,4.0,3.0,3.0,3.0
+Mon Jan 04 2016 09:10:13 GMT-0800 (Pacific Standard Time),Analyst/Credit Investigator,"Rancho Cucamonga, CA",Former Employee,Neutral,Recommends,,Contract Specialist,8,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Tue Dec 22 2015 13:48:36 GMT-0800 (Pacific Standard Time),Asset Protection Analyst,"Torrance, CA",Former Employee,Positive,Recommends,,Asset protection analyst,3,1,,,,3.0,5.0,5.0,3.0,4.0,4.0
+Mon Jan 11 2016 12:08:19 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Chandler, AZ",Current Employee,Positive,Recommends,,Customer service,,1,,,,1.0,1.0,1.0,1.0,1.0,1.0
+Tue Dec 01 2015 21:13:39 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,intenship,,,,,,4.0,5.0,5.0,4.0,5.0,5.0
+Wed Nov 11 2015 17:48:04 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Cedar Rapids, IA",Current Employee,Positive,Recommends,,Great company with great people.,8,1,,,,4.0,3.0,5.0,3.0,3.0,3.0
+Tue Nov 24 2015 21:07:22 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Sr. Mgr,,,,,,3.0,4.0,4.0,1.0,4.0,2.0
+Tue Nov 10 2015 07:51:18 GMT-0800 (Pacific Standard Time),Senior Business Systems Analyst,"Torrance, CA",Current Employee,Positive,Recommends,,Great culture,1,,,,,4.0,3.0,4.0,3.0,4.0,4.0
+Thu Nov 12 2015 13:46:45 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Not a great place during the transition,,3,,,,3.0,5.0,3.0,3.0,3.0,3.0
+Sat Oct 31 2015 07:21:03 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Torrance, CA",Current Employee,Positive,Recommends,,Excellent Company,1,1,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Fri Oct 23 2015 10:07:52 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,customer service rep,,1,,,,4.0,4.0,5.0,4.0,3.0,4.0
+Fri Oct 16 2015 12:27:15 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Great place to work and grow,,1,,,,5.0,5.0,5.0,5.0,4.0,4.0
+Fri Oct 30 2015 13:26:43 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Chandler, AZ",Former Employee,Negative,Doesn't Recommend,,"Overworked, micro managed , treated like a # not a human",1,1,,,,2.0,3.0,1.0,2.0,5.0,1.0
+Tue Oct 13 2015 14:52:36 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Negative,Doesn't Recommend,,Credit Investigator,,,,,,4.0,4.0,5.0,4.0,4.0,4.0
+Wed Oct 07 2015 04:35:34 GMT-0700 (Pacific Daylight Time),Contract Analyst,"Chelmsford, MA",Former Employee,Negative,Doesn't Recommend,,Contract Analyst,,1,,,,4.0,2.0,4.0,2.0,3.0,4.0
+Sat Oct 10 2015 18:55:39 GMT-0700 (Pacific Daylight Time),Inventory Control,"Glenn Dale, MD",Current Employee,Negative,Doesn't Recommend,,Inventory Control,1,1,,,,2.0,2.0,4.0,2.0,2.0,2.0
+Mon Oct 05 2015 18:52:46 GMT-0700 (Pacific Daylight Time),Collections,,Former Employee,Negative,Doesn't Recommend,,Collections,1,2,,,,3.0,3.0,3.0,2.0,3.0,3.0
+Sat Sep 19 2015 15:52:47 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"San Juan, PR",Current Employee,Negative,Doesn't Recommend,,Strong Company Values,1,,,,,4.0,4.0,5.0,4.0,3.0,3.0
+Wed Sep 16 2015 08:49:02 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Negative,Doesn't Recommend,,Great place to work,,,,,,5.0,4.0,4.0,4.0,3.0,4.0
+Fri Sep 18 2015 14:09:39 GMT-0700 (Pacific Daylight Time),Collections,"Torrance, CA",Former Employee,Negative,Doesn't Recommend,,Work Conditions Depend on the Management Team,,3,,,,2.0,3.0,3.0,3.0,1.0,
+Fri Sep 04 2015 11:58:14 GMT-0700 (Pacific Daylight Time),Partner OPs Manager,"Downey, CA",Current Employee,Negative,Doesn't Recommend,,Partner Ops. Manager,1,,,,,5.0,5.0,5.0,4.0,5.0,4.0
+Tue Sep 01 2015 13:17:05 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Negative,Doesn't Recommend,,TFS,,,,,,4.0,5.0,5.0,5.0,5.0,
+Wed Aug 26 2015 15:32:42 GMT-0700 (Pacific Daylight Time),Collections,"Chandler, AZ",Former Employee,Positive,Recommends,,Collections Csr,5,2,,,,4.0,2.0,5.0,1.0,5.0,3.0
+Fri Sep 18 2015 13:58:13 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Cincinnati, OH",Former Employee,Positive,Recommends,,funding department,1,1,,,,1.0,3.0,1.0,1.0,3.0,1.0
+Sun Aug 16 2015 03:24:14 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,CSR,,1,,,,2.0,3.0,2.0,1.0,4.0,1.0
+Sat Aug 01 2015 11:13:58 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Orange, CA",Current Employee,Positive,Recommends,,Chaotic and Unruly,1,4,,,,2.0,1.0,2.0,1.0,4.0,1.0
+Sun Jul 12 2015 10:28:18 GMT-0700 (Pacific Daylight Time),Contract Analyst,"Baton Rouge, LA",Former Employee,Positive,Recommends,,Stable Company,,,,,,5.0,5.0,5.0,4.0,4.0,3.0
+Wed Jul 08 2015 14:37:27 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Bellevue, WA",Former Employee,Positive,Recommends,,Great company,5,1,,,,5.0,5.0,4.0,3.0,3.0,4.0
+Wed Aug 12 2015 12:55:21 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Poor Customer Satisfaction,,2,,,,1.0,5.0,2.0,1.0,3.0,2.0
+Mon Jul 06 2015 09:45:41 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Great life balance,,,,,,4.0,5.0,5.0,3.0,4.0,4.0
+Mon Jul 06 2015 20:52:29 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Awesome,,,,,,4.0,,,,,
+Mon Jun 08 2015 06:36:08 GMT-0700 (Pacific Daylight Time),Senior Risk Analyst,"Los Angeles, CA",Current Employee,Positive,Recommends,,Dream Job/Company.. Until Plano news.,1,9,,,,4.0,5.0,5.0,3.0,5.0,5.0
+Sat Jun 20 2015 16:47:07 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Owings Mills, MD",Current Employee,Positive,Recommends,,Love this company,1,1,,,,5.0,4.0,5.0,5.0,5.0,3.0
+Sun Jul 05 2015 20:42:34 GMT-0700 (Pacific Daylight Time),Hard Worker,"Alpharetta, GA",Former Employee,Positive,Recommends,,Great company to work for!!!,1,,,,,2.0,5.0,5.0,2.0,3.0,3.0
+Tue Jun 16 2015 16:17:00 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Slow and steady,,1,,,,4.0,3.0,4.0,4.0,5.0,3.0
+Sat Jun 20 2015 14:05:26 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Long Beach, CA",Current Employee,Positive,Recommends,,Good compensation. Not so good on communication,1,1,,,,3.0,3.0,3.0,3.0,4.0,2.0
+Mon Jun 01 2015 21:18:26 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Strong company,1,1,,,,5.0,5.0,5.0,4.0,4.0,4.0
+Mon Jun 15 2015 12:13:28 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Do not work here unless you are only looking for great pay,,1,,,,2.0,1.0,1.0,3.0,1.0,1.0
+Sat Jun 13 2015 19:36:32 GMT-0700 (Pacific Daylight Time),Bilingual Customer Advisor,"Chandler, AZ",Current Employee,Positive,Recommends,,Bilingual Financial Advisor,1,1,,,,3.0,3.0,5.0,3.0,5.0,3.0
+Thu May 28 2015 21:10:38 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Work Environment,,3,,,,3.0,5.0,5.0,3.0,4.0,
+Sun May 31 2015 21:06:07 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Contractor,,,,,,3.0,3.0,3.0,3.0,3.0,3.0
+Wed May 13 2015 16:06:06 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Toyota Financial,,,,,,5.0,,,,,
+Thu May 07 2015 19:46:10 GMT-0700 (Pacific Daylight Time),Credit Supervisor,,Current Employee,Positive,Recommends,,15 years,1,,,,,4.0,4.0,3.0,3.0,4.0,3.0
+Mon May 04 2015 10:56:46 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,A decent place to work.,,,,,,4.0,,,,,
+Sun May 03 2015 18:59:10 GMT-0700 (Pacific Daylight Time),Customer Service,"Chandler, AZ",Current Employee,Positive,Recommends,,Decreasing our benefits,,,,,,4.0,4.0,5.0,4.0,3.0,4.0
+Tue Apr 21 2015 21:13:36 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Cedar Rapids, IA",Former Employee,Positive,Recommends,,It was an eye-opening experience.,,4,,,,4.0,4.0,4.0,3.0,5.0,3.0
+Sat May 09 2015 16:55:02 GMT-0700 (Pacific Daylight Time),Contract Analyst,"Los Angeles, CA",Current Employee,Positive,Recommends,,Contract Analyst,8,2,,,,2.0,4.0,1.0,1.0,1.0,1.0
+Fri Apr 24 2015 22:03:26 GMT-0700 (Pacific Daylight Time),Corporate Marketing,"Los Angeles, CA",Former Employee,Positive,Recommends,,Marketing administrator,8,4,,,,3.0,4.0,2.0,2.0,3.0,2.0
+Wed Apr 08 2015 21:33:05 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Torrance, CA",Current Employee,Positive,Recommends,,Unbeatable benefits and good work/life balance,1,2,,,,4.0,4.0,4.0,2.0,4.0,3.0
+Wed Apr 08 2015 23:46:21 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Torrance, CA",Current Employee,Positive,Recommends,,Sr. Financial Analyst,,,,,,4.0,5.0,5.0,4.0,4.0,4.0
+Tue Apr 07 2015 18:01:35 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,All around great company to work for,1,,,,,5.0,5.0,5.0,,,
+Thu Mar 26 2015 20:25:50 GMT-0700 (Pacific Daylight Time),Wholesale Analyst,"San Antonio, TX",Current Employee,Positive,Recommends,,"Several manual functions, change and improvements are in the near future.",,,,,,4.0,3.0,4.0,4.0,4.0,4.0
+Wed Feb 18 2015 13:56:57 GMT-0800 (Pacific Standard Time),Customer Service Representative,"Chandler, AZ",Former Employee,Positive,Recommends,,Pretty decent,1,1,,,,4.0,3.0,4.0,3.0,4.0,3.0
+Thu Feb 12 2015 12:21:03 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Responsible for all document and system related transactions for the Dealer Credit Depart as it related to day to day op,5,1,,,,4.0,4.0,4.0,4.0,4.0,3.0
+Wed Jan 28 2015 16:55:25 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,"Stable company, flat organization, lower morale with the relocation",,,,,,4.0,4.0,4.0,3.0,3.0,3.0
+Sun Jan 25 2015 16:26:09 GMT-0800 (Pacific Standard Time),Technology Lead Associate,"Torrance, CA",Current Employee,Positive,Recommends,,Its a great company.,1,,,,,4.0,3.0,4.0,2.0,4.0,1.0
+Thu Jan 15 2015 22:15:53 GMT-0800 (Pacific Standard Time),Collector,"Cedar Rapids, IA",Former Employee,Positive,Recommends,,Collections,,2,,,,5.0,3.0,4.0,2.0,3.0,2.0
+Fri Jan 30 2015 13:16:37 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Former Employee,Positive,Recommends,,A job that becomes a dead end if you don't keep yourself on the cutting edge.,,3,,,,3.0,5.0,4.0,4.0,3.0,4.0
+Sat Feb 21 2015 16:38:09 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Not the company it used to be,1,3,,,,1.0,2.0,2.0,1.0,4.0,1.0
+Tue Jan 13 2015 16:09:26 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Older environment,,1,,,,4.0,3.0,4.0,3.0,2.0,3.0
+Tue Jan 27 2015 21:54:43 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Chandler, AZ",Current Employee,Positive,Recommends,,Nice Work,5,,,,,3.0,5.0,1.0,2.0,4.0,4.0
+Mon Jan 05 2015 07:25:23 GMT-0800 (Pacific Standard Time),Customer Service Representative,"Owings Mills, MD",Former Employee,Positive,Recommends,,Customer Service Floor,1,2,,,,3.0,3.0,3.0,2.0,4.0,1.0
+Mon Dec 15 2014 07:57:09 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,Excellent place to work,,1,,,,5.0,5.0,4.0,4.0,4.0,3.0
+Tue Dec 02 2014 18:46:57 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Cedar Rapids, IA",Current Employee,Positive,Recommends,,Cares about people!!,3,1,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Mon Nov 10 2014 15:25:29 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Recommends,,"As big corporations go, this was a good place to work",,1,,,,4.0,3.0,4.0,3.0,4.0,3.0
+Tue Nov 11 2014 08:13:48 GMT-0800 (Pacific Standard Time),Band IV Manager,"Torrance, CA",Current Employee,Positive,Recommends,,Good place to work,5,1,,,,4.0,4.0,4.0,3.0,4.0,3.0
+Mon Oct 27 2014 02:21:16 GMT-0700 (Pacific Daylight Time),Business Analyst,"Torrance, CA",Current Employee,Positive,Recommends,,The demise of a good company,1,8,,,,2.0,1.0,1.0,1.0,1.0,1.0
+Mon Oct 20 2014 11:22:14 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Recommends,,Customer Service Rep,,,,,,5.0,4.0,4.0,4.0,4.0,2.0
+Sat Sep 27 2014 04:21:02 GMT-0700 (Pacific Daylight Time),Collections Representative,"Chandler, AZ",Current Employee,Positive,Recommends,,Great benefits,5,2,,,,2.0,1.0,4.0,4.0,5.0,1.0
+Sun Aug 31 2014 19:59:16 GMT-0700 (Pacific Daylight Time),Manager,"Owings Mills, MD",Current Employee,Positive,Recommends,,Passive- Aggressive,8,3,,,,2.0,3.0,2.0,1.0,2.0,2.0
+Thu Jul 31 2014 12:35:24 GMT-0700 (Pacific Daylight Time),Administration,"Owings Mills, MD",Current Employee,Positive,Recommends,,Great benefits,1,1,,,,3.0,4.0,3.0,3.0,4.0,3.0
+Fri Jun 27 2014 05:44:28 GMT-0700 (Pacific Daylight Time),Collections,"Cedar Rapids, IA",Current Employee,Positive,Recommends,,Toyota Financial Services cares about it's employees and community.,5,2,,,,4.0,4.0,4.0,4.0,5.0,4.0
+Mon Jun 23 2014 14:34:34 GMT-0700 (Pacific Daylight Time),Intern,"Chandler, AZ",Former Employee,Neutral,Recommends,,The internship was such a wonderful learning experience,1,1,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Tue Jul 08 2014 20:06:32 GMT-0700 (Pacific Daylight Time),Collections,"Chandler, AZ",Current Employee,Neutral,Recommends,,"Great people, horrible metrics.",1,1,,,,3.0,4.0,3.0,3.0,3.0,5.0
+Sat Jun 14 2014 22:45:40 GMT-0700 (Pacific Daylight Time),IT Analyst,"San Juan, PR",Former Employee,Neutral,Recommends,,Very Pro-Employee company with great benefit package,3,,,,,4.0,3.0,5.0,2.0,3.0,4.0
+Sat May 17 2014 17:14:42 GMT-0700 (Pacific Daylight Time),Anonymous,"Torrance, CA",Current Employee,Neutral,Recommends,,Great company but change resistant,,1,,,,4.0,4.0,4.0,2.0,4.0,3.0
+Sat May 10 2014 20:25:56 GMT-0700 (Pacific Daylight Time),Supervisor,"Torrance, CA",Current Employee,Neutral,Recommends,,Supervisor,8,1,,,,4.0,4.0,4.0,3.0,4.0,3.0
+Mon May 12 2014 19:27:27 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Torrance, CA",Current Employee,Neutral,Recommends,,TFS is a great place to work.,8,,,,,4.0,4.0,5.0,5.0,4.0,3.0
+Sun May 04 2014 00:41:25 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Cedar Rapids, IA",Former Employee,Neutral,Recommends,,Great company culture. Sometimes too strict and systemic for their own good.,3,1,,,,5.0,4.0,5.0,3.0,3.0,4.0
+Wed Apr 30 2014 13:15:35 GMT-0700 (Pacific Daylight Time),Human Resources,"Torrance, CA",Current Employee,Neutral,Recommends,,Very people friendly environment,5,1,,,,4.0,5.0,5.0,3.0,3.0,4.0
+Thu May 15 2014 07:58:16 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Owings Mills, MD",Current Employee,Neutral,Recommends,,Pleasant Experience,1,,,,,3.0,4.0,4.0,4.0,5.0,3.0
+Mon Mar 31 2014 09:42:51 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Neutral,Recommends,,Great company to work for,,,,,,4.0,,,,,
+Sat Mar 29 2014 17:51:41 GMT-0700 (Pacific Daylight Time),Inventory Control Clerk,"Owings Mills, MD",Current Employee,Negative,Doesn't Recommend,,TFS,1,4,,,,3.0,3.0,4.0,2.0,5.0,4.0
+Tue Apr 01 2014 07:43:30 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Negative,Doesn't Recommend,,Terrible,,2,,,,2.0,2.0,2.0,2.0,2.0,2.0
+Thu Feb 27 2014 19:48:05 GMT-0800 (Pacific Standard Time),Collector,,Current Employee,Negative,Doesn't Recommend,,No opportunities for associate growth,1,3,,,,2.0,1.0,2.0,1.0,2.0,1.0
+Tue Dec 31 2013 04:20:23 GMT-0800 (Pacific Standard Time),Manager,"New York, NY",Current Employee,Negative,Doesn't Recommend,,"Stable, solid organization in need of a few enhancements",1,,,,,4.0,3.0,3.0,2.0,2.0,4.0
+Sun Dec 01 2013 13:32:32 GMT-0800 (Pacific Standard Time),Customer Service Representative,"Owings Mills, MD",Current Employee,Negative,Doesn't Recommend,,Good Company to work for,1,,,,,3.0,3.0,4.0,2.0,4.0,3.0
+Thu Oct 31 2013 18:33:04 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Negative,Doesn't Recommend,,Not too shabby,,,,,,4.0,3.0,3.0,4.0,2.0,3.0
+Thu Oct 10 2013 07:14:59 GMT-0700 (Pacific Daylight Time),Total Loss Advisor,"Owings Mills, MD",Current Employee,Negative,Doesn't Recommend,,The experience was a very good learning experience.,1,2,,,,4.0,4.0,4.0,4.0,5.0,4.0
+Tue Sep 17 2013 11:53:46 GMT-0700 (Pacific Daylight Time),Customer Account Representative,"Torrance, CA",Former Employee,Negative,Doesn't Recommend,,customer service,1,1,,,,5.0,3.0,3.0,1.0,3.0,3.0
+Sat Aug 17 2013 19:42:46 GMT-0700 (Pacific Daylight Time),Credit Analyst,"San Antonio, TX",Current Employee,Negative,Doesn't Recommend,,Perfect Place,1,,,,,5.0,5.0,5.0,5.0,5.0,
+Tue Jul 30 2013 16:00:37 GMT-0700 (Pacific Daylight Time),Senior Financial Analyst,"Torrance, CA",Current Employee,Negative,Doesn't Recommend,,Stay away if you are young.,1,5,,,,2.0,4.0,4.0,2.0,3.0,3.0
+Thu Aug 15 2013 08:57:16 GMT-0700 (Pacific Daylight Time),Collector,"Chandler, AZ",Former Employee,Positive,Doesn't Recommend,,"Hated it, everything about it!",1,2,,,,1.0,1.0,1.0,1.0,1.0,1.0
+Sat May 25 2013 09:53:38 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Doesn't Recommend,,Great company!,1,,,,,5.0,4.0,5.0,3.0,4.0,5.0
+Tue May 21 2013 08:10:42 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Former Employee,Positive,Doesn't Recommend,,Great company with incredible benefits.,3,,,,,4.0,4.0,3.0,4.0,4.0,3.0
+Sat May 11 2013 19:06:40 GMT-0700 (Pacific Daylight Time),Anonymous Employee,,Current Employee,Positive,Doesn't Recommend,,Glad for the flexibility to stay meaningfully connected with both work and life at home,,,,,,3.0,4.0,3.0,3.0,1.0,3.0
+Wed May 01 2013 16:17:14 GMT-0700 (Pacific Daylight Time),Collections,"Cedar Rapids, IA",Former Employee,Positive,Doesn't Recommend,,Collections,1,,,,,3.0,,,,,
+Tue Mar 19 2013 17:19:03 GMT-0700 (Pacific Daylight Time),Associate,"Torrance, CA",Current Employee,Positive,Doesn't Recommend,,Great company for work/life balance,3,,,,,4.0,5.0,4.0,3.0,3.0,4.0
+Sat Mar 16 2013 22:42:04 GMT-0700 (Pacific Daylight Time),Senior Financial Analyst,"Torrance, CA",Current Employee,Positive,Doesn't Recommend,,Senior Financial Analyst,1,1,,,,3.0,5.0,3.0,2.0,4.0,4.0
+Sat Feb 23 2013 06:52:45 GMT-0800 (Pacific Standard Time),Anonymous Employee,,Current Employee,Positive,Doesn't Recommend,,Very Polarizing Culture - Passive Aggressive,,1,,,,3.0,3.0,3.0,1.0,5.0,2.0
+Fri Nov 30 2012 14:04:31 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Owings Mills, MD",Current Employee,Positive,Doesn't Recommend,,Good place to work,1,,,,,4.0,5.0,4.0,3.0,4.0,4.0
+Mon Aug 06 2012 14:59:28 GMT-0700 (Pacific Daylight Time),Anonymous Employee,"Los Angeles, CA",Current Employee,Positive,Doesn't Recommend,,Good,5,,,,,5.0,5.0,5.0,5.0,5.0,5.0
+Sun Jul 22 2012 20:45:14 GMT-0700 (Pacific Daylight Time),Customer Service Representative,"Owings Mills, MD",Current Employee,Positive,Recommends,,Good work environment,1,,,,,5.0,5.0,4.0,3.0,4.0,3.0
+Mon Jul 09 2012 15:57:38 GMT-0700 (Pacific Daylight Time),Collections,"Owings Mills, MD",Former Employee,Positive,Recommends,,The best company to work for ever.,3,,,,,5.0,5.0,5.0,4.0,5.0,4.0
+Mon Apr 16 2012 18:34:00 GMT-0700 (Pacific Daylight Time),Business Analyst,"Torrance, CA",Former Employee,Positive,Recommends,,Abundance of Managers in a Vacuum of Leadership,,2,,,,2.0,3.0,2.0,2.0,2.5,
+Sun Mar 18 2012 23:16:50 GMT-0700 (Pacific Daylight Time),Manager,"Torrance, CA",Former Employee,Positive,Recommends,,Great work life balance...,,,,,,3.0,3.5,2.5,3.5,2.0,
+Sat Mar 03 2012 15:18:21 GMT-0800 (Pacific Standard Time),RECONCILIATION SPECIALIST,"Torrance, CA",Current Employee,Positive,Recommends,,Great company to work for,,,,,,4.0,4.0,3.0,3.5,4.0,
+Sat Mar 03 2012 08:40:16 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Torrance, CA",Current Employee,Positive,Recommends,,Operations are much too lean,,2,,,,2.0,3.0,2.0,3.5,2.0,
+Fri Feb 10 2012 16:58:22 GMT-0800 (Pacific Standard Time),Senior Risk Analyst,"Torrance, CA",Former Employee,Positive,Recommends,,A very fair company,,,,,,4.0,4.5,4.0,4.5,4.0,
+Thu Feb 02 2012 10:51:15 GMT-0800 (Pacific Standard Time),Anonymous Employee,"Torrance, CA",Current Employee,Positive,Recommends,,There are really good jobs and Toyota and really bad jobs as well. It's difficult to find the right job.,,,,,,3.0,5.0,2.0,4.0,3.0,
+Sun Jan 29 2012 06:26:21 GMT-0800 (Pacific Standard Time),Technology,"Torrance, CA",Current Employee,Positive,Recommends,,Difficult circumstances for technology work,,,,,,3.0,4.0,2.5,4.0,4.0,
+Wed Oct 12 2011 11:13:34 GMT-0700 (Pacific Daylight Time),Skip Tracer,"Chandler, AZ",Current Employee,Positive,Recommends,,"There's a reason it's hard to get a position with TFS, but once you're in, you are in.",,4,,,,4.0,3.0,3.0,3.5,4.0,
